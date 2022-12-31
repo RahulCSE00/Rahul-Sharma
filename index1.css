@@ -1,0 +1,32 @@
+
+.container{
+    width: 200px;
+    height: 400px;
+    background-color: gray;
+    margin: 100px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
+.red{
+    background-color: red;
+    position: relative;
+    top: -50px;
+    right: 100px;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+background-color: yellow;
+}
+.pink{
+    background-color: rgb(211, 45, 73);
+}
+.right-container{
+    background-color: rgb(80, 213, 109);
+}
+.contact{
+    background-color: aquamarine;
+}
